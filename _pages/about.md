@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Master's graduate student at the College of Computer Science and Artificial Intelligence, Zhengzhou University. My research focuses on information bottleneck and multi-view clustering. I look forward to engaging in academic exchanges with those who share similar research interests. You can reach me via email at iefshan@outlook.com.
+Master's graduate student at the College of Computer Science and Artificial Intelligence, Zhengzhou University. My research focuses on information bottleneck and multi-view clustering. I look forward to engaging in academic exchanges with those who share similar research interests. You can reach me via email at <strong>iefshan@outlook.com</strong>.
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
