@@ -23,7 +23,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2023.11*: &nbsp;🎉🎉 A personal page belonging to fengshouhan was set up.. 
+- *2023.11*: &nbsp;🎉🎉 A personal page belonging to fengshouhan was set up. 
 
 # 📝 Publications 
 
