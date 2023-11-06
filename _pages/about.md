@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Master's graduate student at the College of Computer Science and Artificial Intelligence, Zhengzhou University. My research focuses on information bottleneck and multi-view clustering. I look forward to engaging in academic exchanges with those who share similar research interests. You can reach me via email at <strong>iefshan@outlook.com</strong>.
+Master's graduate student at the College of Computer Science and Artificial Intelligence, Zhengzhou University. My research focuses on information bottleneck and multi-view clustering. I look forward to engaging in academic exchanges with those who share similar research interests. You can reach me via email at <strong>iefshan.gs.zzu.edu.cn</strong>.
 
 
 # 🔥 News
